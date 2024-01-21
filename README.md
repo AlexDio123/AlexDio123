@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexDio123
 - 👀 I’m interested in Web Development and Data Analysis.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning about Cloud.
 - 💞️ I’m looking to collaborate on exiting and challenging projects!
 - 📫 How to reach me alexdionicio934@gmail.com
 
